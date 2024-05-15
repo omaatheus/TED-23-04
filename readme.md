@@ -2,4 +2,4 @@
 
 Retirar travas
 Transpilar ()
-Converter JS para TS > tsc index.ts > node index.js
+Converter ts para js > tsc index.ts > node index.js
